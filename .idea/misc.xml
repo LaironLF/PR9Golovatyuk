@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PR9Golovatyuk/app/src/main/res/drawable/custombutton.xml" value="0.291" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/PR9Golovatyuk/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/PR9Golovatyuk/app/src/main/res/layout/custombutton.xml" value="0.2869791666666667" />
       </map>
     </option>
   </component>
